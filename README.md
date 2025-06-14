@@ -4,7 +4,7 @@
 </h1>
 
 <!-- Subtitle -->
-<h3 align="center">Aspiring Full-Stack Developer 🚀</h3>
+<h3 align="center">Aspiring Full-Stack Developer</h3>
 
 <!-- Tech Stack Icons -->
 <p align="center">
