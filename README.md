@@ -19,11 +19,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Winterr4077&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Winterr4077&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Winterr4077&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Winterr4077&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winterr4077&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="180" alt="Top Languages" />
 </p>
 
 ---
