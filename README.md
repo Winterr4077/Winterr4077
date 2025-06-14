@@ -11,10 +11,12 @@
 
 ---
 
-<!-- Spotify Now Playing SVG -->
-<h3 align="center">🎧 Currently Listening On Spotify</h3>
+### 🎧 Currently Listening On Spotify
+
 <p align="center">
-  <img src="https://spotify-now-playing-kappa.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/31tw5u6spmypdmh2t3pevtx4qiwa" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+  </a>
 </p>
 
 ---
