@@ -11,10 +11,10 @@
 
 ---
 
-<!-- Spotify Now Playing Embed -->
-<h3 align="center">🎧 Currently Listening On Spotify</h3>
+### 🎧 Currently Listening On Spotify
+
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/user/31tw5u6spmypdmh2t3pevtx4qiwa?utm_source=generator&theme=0" width="300" height="80" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tw5u6spmypdmh2t3pevtx4qiwa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </p>
 
 ---
