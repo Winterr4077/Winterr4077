@@ -1,12 +1,9 @@
-<!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=9A9AFC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Winterr+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
 </h1>
 
-<!-- Subtitle -->
 <h3 align="center">Aspiring Full-Stack Developer</h3>
 
-<!-- Tech Stack Icons -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
@@ -21,19 +18,16 @@
 
 ---
 
-<!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Winterr4077&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Winterr4077&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Stats" />
 </p>
 
 ---
 
-<!-- Contact Buttons -->
 <p align="center">
   <a href="https://discord.com/users/922820920882626571" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Winterr4077%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
