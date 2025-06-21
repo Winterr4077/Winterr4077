@@ -15,11 +15,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
 </p>
-
 ---
 
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=Winterr4077&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D](https://streak-stats.demolab.com?user=Winterr4077&theme=tokyonight)" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Winterr4077&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
