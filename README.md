@@ -22,9 +22,6 @@
   <img src="https://streak-stats.demolab.com?user=Winterr4077&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Winterr4077&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Stats" />
-</p>
 
 ---
 
