@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=9A9AFC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Winterr+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
 </h1>
 
-<h3 align="center">Aspiring Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
