@@ -6,7 +6,7 @@
 
 <p align="center">
   I’m a passionate <b>Full-Stack Developer</b> who loves learning to build fast, scalable, and user-friendly applications.<br>
-  Focused on crafting clean code, learning new technologies, and creating meaningful digital experiences.
+  Focused on curating clean code, learning new frameworks, and creating meaningful digital experiences.
 </p>
 
 ---
