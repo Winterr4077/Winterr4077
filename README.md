@@ -13,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="Npm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://github.com/user-attachments/assets/e3eaf873-5017-489c-a562-21946d916031" height="30" alt="C++" />
 </p>
 
 ---
