@@ -1,31 +1,54 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=9A9AFC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Winterr+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=9A9AFC&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Winterr+🔥;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing animation" />
 </h1>
 
-<h3 align="center">Full-Stack Developer</h3>
+---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="Npm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://github.com/user-attachments/assets/e3eaf873-5017-489c-a562-21946d916031" height="30" alt="C++" />
+  I’m a passionate <b>Full-Stack Developer</b> who loves learning to build fast, scalable, and user-friendly applications.<br>
+  Focused on crafting clean code, learning new technologies, and creating meaningful digital experiences.
 </p>
 
 ---
 
+<h2 align="center">🧩 Technologies & Tools</h2>
+
+<h3 align="center">💻 Frontend</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Winterr4077&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+<h3 align="center">🧰 Tools & Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
+<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Winterr4077&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winterr4077&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://discord.com/users/922820920882626571" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Winterr4077%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
@@ -34,3 +57,5 @@
     <img src="https://img.shields.io/badge/Twitter-%40Winterr4077-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
 </p>
+
+---
