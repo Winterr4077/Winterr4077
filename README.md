@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  I’m a passionate <b>Full-Stack Developer</b> who loves learning to build fast, scalable, and user-friendly applications.<br>
+  I’m a passionate <b>Full-Stack Developer</b> who loves learning to build fast, scalable, and user-friendly websites<br>
   Focused on curating clean code, learning new frameworks, and creating meaningful digital experiences.
 </p>
 
