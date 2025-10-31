@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=9A9AFC&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Winterr+🔥;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing animation" />
 </h1>
 ---
+
 <p align="center">
   I’m a passionate <b>Full-Stack Developer</b> who loves learning to build fast, scalable, and user-friendly websites<br>
   Focused on curating clean code, learning new frameworks, and creating meaningful digital experiences.
