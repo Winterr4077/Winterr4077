@@ -1,14 +1,15 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=9A9AFC&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Winterr+🔥;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing animation" />
 </h1>
----
+
+<hr>
 
 <p align="center">
   I’m a passionate <b>Full-Stack Developer</b> who loves learning to build fast, scalable, and user-friendly websites<br>
   Focused on curating clean code, learning new frameworks, and creating meaningful digital experiences.
 </p>
 
----
+<hr>
 
 <h2 align="center">🧩 Technologies & Tools</h2>
 
@@ -37,7 +38,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
+<hr>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
@@ -45,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winterr4077&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
----
+<hr>
 
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
@@ -57,4 +58,4 @@
   </a>
 </p>
 
----
+<hr>
