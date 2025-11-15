@@ -1,4 +1,4 @@
-<h1 align="center"> a
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=9A9AFC&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Winterr+🔥;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing animation" />
 </h1>
 
